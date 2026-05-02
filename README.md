@@ -17,4 +17,4 @@ Pure HTML/CSS, no JS needed.
 FB: Professional Mode ON ✅  
 IG: @b.bty.coder
 
-⭐ Star this repo for daily CSS tricks
+⭐ Star this repo for daily CSS tricks ✨
