@@ -1,20 +1,30 @@
-# @b-bty-coder Reels Code 💚
+# Clean Login UI | HTML & CSS ✨
 
-All CSS/HTML from my Facebook + Instagram reels.
+Daily CSS/HTML code from [@b.bty.coder](https://facebook.com/b.bty.coder) Facebook reels 💚
 
-## Reel #1 - Clean Login UI
-[HTML](./01-login-ui.html) | [CSS](./01-login-ui.css)
+## 🚀 Live Demo
+**[View Live Demo](https://b-bty-coder.github.io/login-ui/)**
+
+## 📸 Preview
+![Login UI Demo](demo.gif)  
+*Upload a 3s screen record gif named `demo.gif` to repo*
+
+## 🛠️ Built With
+- HTML5
+- CSS3
+- Flexbox
+
+## ✨ Features
+- ✅ Pure HTML/CSS - No JS
+- ✅ Responsive design
+- ✅ Clean GitHub dark theme `#0d1117`
+
+## 📂 Reel #1 - Clean Login UI
+**HTML | CSS** files included above
 
 Pure HTML/CSS, no JS needed.
 
-### Features
-- Responsive design
-- Smooth hover + focus effects
-- Clean validation UI
-- Mobile friendly
+---
+**If you liked this project, give it a ⭐!** 
 
-## Follow
-FB: Professional Mode ON ✅  
-IG: @b.bty.coder
-
-⭐ Star this repo for daily CSS tricks ✨
+Made with ❤️ by [b.bty.coder](https://github.com/b-bty-coder)
